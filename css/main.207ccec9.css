@@ -28,8 +28,8 @@
     flex-direction: column;
     align-items: center;
     column-gap: 150px;
+    font-family: Arial, sans-serif;
 }
-
 .input {
     display: block;
     margin-bottom: 20px;
@@ -81,7 +81,7 @@
     color: #fff;
 }
 .buttonPage {
-    width: 500px;
+    max-width: 600px;
 }
 
 .buttonTypes {
